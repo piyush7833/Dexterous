@@ -1,5 +1,4 @@
 import admin from "firebase-admin";
-import sharp from "sharp";
 import { initializeApp as initializeClientApp } from "firebase/app";
 
 import dotenv from "dotenv";
